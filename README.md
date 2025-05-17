@@ -4,6 +4,9 @@
 - My interest is Front-end development.
 - Currently developing my skills in a variety of Front-end languages.
 
+## My profiles
+- [LinkedIn](https://www.linkedin.com/in/pereira-sofia/)
+
 <br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
